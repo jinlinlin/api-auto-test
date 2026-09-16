@@ -1,0 +1,23 @@
+# 子模块（只读，不上传）
+uniplore-uniresearch/
+
+# 接口文档（不上传）
+docs/
+
+# 嵌入仓库
+api-auto-test/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
